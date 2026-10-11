@@ -1,0 +1,30 @@
+# Godot 4+ specific ignores
+.godot/
+*.translation
+export.cfg
+export_presets.cfg
+.import/
+*.import
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+*.swp
+*.tmp
+*~
+.vscode/
+.idea/
+
+# Build / Export
+builds/
+*.apk
+*.aab
+*.exe
+*.app
+*.x86_64
+*.dmg
+
+# Secrets
+.env
+*.secret
+api_keys.txt

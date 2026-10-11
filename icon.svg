@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
+  <rect width="128" height="128" rx="24" fill="#0a1628"/>
+  <circle cx="64" cy="64" r="36" fill="none" stroke="#00e5ff" stroke-width="6"/>
+  <circle cx="64" cy="64" r="18" fill="#00e5ff" opacity="0.7"/>
+  <text x="64" y="110" font-family="Arial" font-size="14" fill="#00e5ff" text-anchor="middle">ECHO</text>
+</svg>
